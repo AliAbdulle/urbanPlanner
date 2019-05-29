@@ -1,0 +1,11 @@
+/alidhobey/programming/nss/cohort31/Exercise/urbanPlanner/obj/Debug/netcoreapp2.2/urbanPlanner.csprojAssemblyReference.cache
+/alidhobey/programming/nss/cohort31/Exercise/urbanPlanner/obj/Debug/netcoreapp2.2/urbanPlanner.csproj.CoreCompileInputs.cache
+/alidhobey/programming/nss/cohort31/Exercise/urbanPlanner/obj/Debug/netcoreapp2.2/urbanPlanner.AssemblyInfoInputs.cache
+/alidhobey/programming/nss/cohort31/Exercise/urbanPlanner/obj/Debug/netcoreapp2.2/urbanPlanner.AssemblyInfo.cs
+/alidhobey/programming/nss/cohort31/Exercise/urbanPlanner/bin/Debug/netcoreapp2.2/urbanPlanner.deps.json
+/alidhobey/programming/nss/cohort31/Exercise/urbanPlanner/bin/Debug/netcoreapp2.2/urbanPlanner.runtimeconfig.json
+/alidhobey/programming/nss/cohort31/Exercise/urbanPlanner/bin/Debug/netcoreapp2.2/urbanPlanner.runtimeconfig.dev.json
+/alidhobey/programming/nss/cohort31/Exercise/urbanPlanner/bin/Debug/netcoreapp2.2/urbanPlanner.dll
+/alidhobey/programming/nss/cohort31/Exercise/urbanPlanner/bin/Debug/netcoreapp2.2/urbanPlanner.pdb
+/alidhobey/programming/nss/cohort31/Exercise/urbanPlanner/obj/Debug/netcoreapp2.2/urbanPlanner.dll
+/alidhobey/programming/nss/cohort31/Exercise/urbanPlanner/obj/Debug/netcoreapp2.2/urbanPlanner.pdb
