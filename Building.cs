@@ -11,7 +11,7 @@ namespace urbanPlanner
         public int Stories {get; set;}
         public double Width {get; set;}
         public double Depth {get; set;}
-        public double Valume 
+        public double Valume
         {
             get {
                 return Width * Depth * (3 * Stories);
@@ -29,7 +29,12 @@ namespace urbanPlanner
         }
         public void DisplayInformation()
         {
-            Console.WriteLine($"{_address}");
+            Console.WriteLine($@"{_address}
+--------------------------------
+ Designed by {_designer}
+Constructed on {_dateConstructed}
+Ownned by {_owner}
+{Valume} cubic meters of space");
         }
 
     }
