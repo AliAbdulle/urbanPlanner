@@ -19,7 +19,6 @@ namespace urbanPlanner
         }
         public Building (string address){
             _address = address;
-            _designer = "Ali Adulle";
 
         }
         public void construct() {
@@ -27,6 +26,10 @@ namespace urbanPlanner
         }
         public void Purchase(string purchaser) {
             _owner = purchaser;
+        }
+        public void DisplayInformation()
+        {
+            Console.WriteLine($"{_address}");
         }
 
     }
