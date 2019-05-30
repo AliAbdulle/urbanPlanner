@@ -13,19 +13,19 @@ namespace urbanPlanner
             Building FiveOneTwoEigth = new Building("512 8th Avenue")
             {
                 Width = 25.5,
-                height = 10.1,
+                Height = 10.1,
                 Stories = 5
             };
             Building NSS = new Building("500 Interstate Blvd")
             {
                 Width = 45.5,
-                height = 20.1,
+                Height = 20.1,
                 Stories = 4
             };
             Building BellHouse = new Building("100 main street")
             {
                 Width = 32.5,
-                height = 18.1,
+                Height = 18.1,
                 Stories = 5
             };
 

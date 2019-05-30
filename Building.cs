@@ -10,11 +10,11 @@ namespace urbanPlanner
         private string _owner {get; set;}
         public int Stories {get; set;}
         public double Width {get; set;}
-        public double height {get; set;}
+        public double Height {get; set;}
         public double Valume
         {
             get {
-                return Width * height * (3 * Stories);
+                return Width * Height * (3 * Stories);
             }
         }
         public Building (string address){
@@ -29,7 +29,8 @@ namespace urbanPlanner
         }
         public void DisplayInformation()
         {
-            Console.WriteLine($@"{_address}
+            Console.WriteLine($@"
+{_address}
 --------------------------------
  Designed by {_designer}
 Constructed on {_dateConstructed}
