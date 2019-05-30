@@ -35,7 +35,6 @@ namespace urbanPlanner
             _establish = DateTime.Now;
             _name = name;
         }
-    
 
     }
 }
