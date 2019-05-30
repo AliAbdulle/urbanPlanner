@@ -4,17 +4,17 @@ namespace urbanPlanner
 {
     class Building
     {
-        private string _designer {get; set;}
+        private string _designer = "Ali Abdulle";
         private DateTime _dateConstructed {get; set;}
         private string _address {get; set;}
         private string _owner {get; set;}
         public int Stories {get; set;}
         public double Width {get; set;}
-        public double Depth {get; set;}
+        public double height {get; set;}
         public double Valume
         {
             get {
-                return Width * Depth * (3 * Stories);
+                return Width * height * (3 * Stories);
             }
         }
         public Building (string address){
